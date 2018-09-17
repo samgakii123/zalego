@@ -1,0 +1,58 @@
+.form{
+margin-left: 30%;
+	margin-top: 10%;
+	
+}
+.field{
+width: 60%;	
+	border-radius: 20px;
+		background-color: lightgray;
+}
+.fi{
+	margin-left: 30%;
+}
+input[type="submit"]{
+	background-color: lightgreen;
+	width: 50%;
+	border-radius: 10px;
+}
+.loginform{
+	margin-left: 30%;	
+	margin-top: 10%;
+}
+.regd{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.fild{
+width: 50%;	
+	border-radius: 20px;
+		background-color: lightgray;
+}
+.log{
+	margin-left: 80%;
+}
+.wel{
+font-family: sans-serif;
+	font-size: 18px;
+	margin-left: 40%;
+		
+}
+.det{
+	margin-left: 40%;
+	
+}
+.forml{
+	margin-left: 30%;
+
+}
+.portal{
+	background-color: lightgray;
+	margin-top: 10%;
+	
+	width: 80%;	
+	border-radius: 20px;
+	margin-left: 10%;
+	height: 40%;
+	
+}
